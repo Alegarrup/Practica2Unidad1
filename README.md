@@ -5,8 +5,8 @@
 **<h2>1. Ventajas de incorporar el script desde un fichero externo frente a hacerlo en línea (código javascript directamente en el fichero HTML)</h2>**
 
 
-    <span style="color:orange">Las ventajas son entre otras, los ficheros quedan más estilizados aparte de leerse más claramente, a su vez puede editarse con más facilidad estando separados.
-    Esto es un ejemplo de codigo javascript externo del html</span>.
+  <span style="color:orange">Las ventajas son entre otras, los ficheros quedan más estilizados aparte de leerse más claramente, a su vez puede editarse con más facilidad estando separados.
+  Esto es un ejemplo de codigo javascript externo del html</span>.
 
 ```js
 // my-script.js
